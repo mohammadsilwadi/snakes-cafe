@@ -1,1 +1,1 @@
-## PR url : https://github.com/mohammadsilwadi/snakes-cafe/pull/1
+##  [Pull Request Link](https://github.com/mohammadsilwadi/snakes-cafe/pull/1)
